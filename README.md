@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX and full stack 
 - 🌱 Undergraduate
 - 📫 Reach me on @nayagamrenuga@gmail
-- 😄 Pronouns:Rey
+
 
 
 <!---
