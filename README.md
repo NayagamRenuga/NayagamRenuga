@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Renuga
-- 👀 I’m interested in UI/UX and full stack 
+- 👀 I’m interested in UI/UX and web development 
 - 🌱 Undergraduate
 - 📫 Reach me on @nayagamrenuga@gmail
 
